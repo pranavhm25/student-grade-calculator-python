@@ -38,14 +38,17 @@ A simple Python program that calculates the average marks, grade, and pass/fail 
 1. Clone the repository
 ```bash
 git clone https://github.com/pranavhm25/student-grade-calculator-python.git
+```
 
 2. Navigate to the project folder
 ```bash
 cd student-grade-calculator
+```
 
 3. Run the program
 ```bash
 python main.py
+```
 
 ---
 
@@ -71,8 +74,9 @@ XYZ | Average: 85.00 | Grade: B | Pass
 - Save results to a file (CSV or text)
 - Add ranking system for students
 - Create a menu-based interface
+
 ---
 
 ## Author
 
-Pranav
+H M Pranav
