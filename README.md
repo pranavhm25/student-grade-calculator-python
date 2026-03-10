@@ -42,7 +42,7 @@ git clone https://github.com/pranavhm25/student-grade-calculator-python.git
 
 2. Navigate to the project folder
 ```bash
-cd student-grade-calculator
+cd student-grade-calculator-python
 ```
 
 3. Run the program
@@ -54,6 +54,7 @@ python main.py
 
 ## Example Output
 
+```
 Enter the number of students: 2
 
 Student 1
@@ -65,6 +66,7 @@ Enter the marks for subject 3: 85
 
 Student Results:
 XYZ | Average: 85.00 | Grade: B | Pass
+```
 
 ---
 
